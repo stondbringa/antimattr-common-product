@@ -1,5 +1,5 @@
 {
-    "name": "stondbringa/antimattr-common-product",
+    "name": "antimattr/common-product",
     "type": "library",
     "description": "Common Product Model",
     "keywords": ["antimattr", "product"],
