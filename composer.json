@@ -1,5 +1,5 @@
 {
-    "name": "antimattr/common-product",
+    "name": "stondbringa/antimattr-common-product",
     "type": "library",
     "description": "Common Product Model",
     "keywords": ["antimattr", "product"],
@@ -13,7 +13,6 @@
         "doctrine/collections": "1.*"             
     },
     "require-dev": {
-        "antimattr/test-case": "~1.0@stable",
         "phpunit/phpunit": "~4.0",
         "fabpot/php-cs-fixer": "dev-master"
     },
